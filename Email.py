@@ -8,7 +8,7 @@ SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 465
 
 SMTP_USER = 'ysjk2003@gmail.com'
-SMTP_PASSWORD = '028358kk@'
+SMTP_PASSWORD = ''
 
 def send_mail(name,addr):
     msg = MIMEMultipart()
